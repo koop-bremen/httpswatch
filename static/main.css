@@ -180,13 +180,13 @@ body {
 .site-grade {
     float: right;
 }
-.site-grade-good {
+.site-grade-gut {
     color: green;
 }
-.site-grade-mediocre {
+.site-grade-mittel {
     color: #BF8300;
 }
-.site-grade-bad {
+.site-grade-schlecht {
     color: red;
 }
 .site-status-details {
