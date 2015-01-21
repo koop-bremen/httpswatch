@@ -254,6 +254,38 @@
                     "domain": "www.berlin.de"
                 },
                 {
+                    "name": "Hamburg",
+                    "domain": "www.hamburg.de"
+                },
+                {
+                    "name": "München",
+                    "domain": "www.muenchen.de"
+                },
+                {
+                    "name": "Köln",
+                    "domain": "www.stadt-koeln.de"
+                },
+                {
+                    "name": "Frankfurt",
+                    "domain": "www.frankfurt.de"
+                },
+                {
+                    "name": "Stuttgart",
+                    "domain": "www.stuttgart.de"
+                },
+                {
+                    "name": "Düsseldorf",
+                    "domain": "www.duesseldorf.de"
+                },
+                {
+                    "name": "Dortmund",
+                    "domain": "www.dortmund.de"
+                },
+                {
+                    "name": "Essen",
+                    "domain": "www.essen.de"
+                },
+                {
                     "name": "Bremen",
                     "domain": "www.bremen.de"
                 }
@@ -268,7 +300,7 @@
                     "domain": "www.sparkasse.de"
                 },
                 {
-                    "name": "Volskbank",
+                    "name": "Volksbank",
                     "domain": "www.vr.de"
                 },
                 {
