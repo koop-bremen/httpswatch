@@ -20,7 +20,7 @@ window.addEventListener("load", function onLoad() {
 {% block body %}
 
 <h1>HTTPSWatch</h1>
-<p>HTTPSWatch tracks the HTTPS support of prominent websites. Click to show details about a site&rsquo;s HTTPS support. See the <a href="/about">About page</a> for more information.
+<p>HTTPSWatch zeigt die HTTPS-Unterstützung häufig genutzter Websites. Um dir Details anzeigen zu lassen klicke auf einen Eintrag. <a href="/about">Über diese Seite</a> erklärt mehr über dieses Projekt.
 
 <nav class="main-toc">
   <ul class="nav-list">
@@ -36,7 +36,7 @@ window.addEventListener("load", function onLoad() {
     <h2 class="cat-name">{{ cat.name|e }}</h2>
     <a class="cat-name-link" title="Link to this category" href="#{{ cat.linkname }}">¶</a>
     <div class="cat-counts">
-      <span class="site-grade-bad">{{ cat.counts.bad|default(0) }}</span>/<span class="site-grade-mediocre">{{ cat.counts.mediocre|default(0) }}</span>/<span class="site-grade-good">{{ cat.counts.good|default(0) }}</span>
+      <span class="site-grade-schlecht">{{ cat.counts.schlecht|default(0) }}</span>/<span class="site-grade-mittel">{{ cat.counts.mittel|default(0) }}</span>/<span class="site-grade-gut">{{ cat.counts.gut|default(0) }}</span>
     </div>
   </div>
   <div class="site-category">

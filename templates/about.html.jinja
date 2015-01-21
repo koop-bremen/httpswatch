@@ -2,19 +2,19 @@
 
 {% block body %}
 
-<h1>About HTTPSWatch</h1>
+<h1>Über HTTPSWatch</h1>
 
 <h2>Ratings</h2>
-<p>HTTPSWatch assigns every tracked site a rating approximating the quality of its HTTPS support. If a verified TLS connection cannot be established or no page can be loaded over TLS, the site is given the <span class="site-grade-bad">Bad</span> rating. The <span class="site-grade-mediocre">Mediocre</span> rating means a TLS connection can be established but there are quality issues with the site&rsquo;s implementation of HTTPS (e.g. the HTTP site doesn&rsquo;t redirect to HTTPS or the <code>Strict-Transport-Security</code> header isn&rsquo;t set). If everything looks good, a <span class="site-grade-good">Good</span> rating is given.
+<p>HTTPSWatch versieht jede getestete Seite mit einer Bewertung der Qualität ihrer HTTPS-Verbindung. Wenn keine vertrauenswürdige TLS-Verbindung aufgebaut oder die Seite nicht über TLS geladen werden konnte, erhält sie die Bewertng <span class="site-grade-schlecht">Schlecht</span>. Die Bewertung <span class="site-grade-mittle">Mittel</span> heißt, eine TLS-Verbindung konnte aufgebaut werden, aber es gab andere Probleme hinsichtlich der Qualität mit der HTTPS auf der Seite eingesetzt wird (z.B. die HTTP-Seite leitet nicht zur HTTPS-Seite weiter oder der <code>Strict-Transport-Security</code>-Header (<a href="https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security">HSTS</a>) ist nicht gesetzt). Wenn alles ok ist wird die Seite mit <span class="site-grade-gut">gut</span> bewertet.
 
-<h2>Limitations</h2>
-<p>Some sites which HTTPSWatch rates as <span class="site-grade-mediocre">Mediocre</span> are actually unusable in a browser. This is mostly due to <a href="https://developer.mozilla.org/en-US/docs/Security/MixedContent">mixed content</a>, which HTTPSWatch doesn&rsquo;t detect.
-<p>Aside from the basic hostname verification checks, HTTPSWatch doesn&rsquo;t attempt to evaluate the quality of the TLS connection. A link to the <a href="https://www.ssllabs.com/ssltest/">SSL Labs server TLS testing tool</a> is provided for each site.
+<h2>Einschr&auml;nkungen</h2>
+<p>Einige von HTTPSWatch mit <span class="site-grade-mittel">Mittel</span> bewertete Seiten sind im Browser nicht benutzbar. Das liegt vor allem an sogenanntem <a href="https://developer.mozilla.org/en-US/docs/Security/MixedContent">Mixed Content</a>, also an Inhalten, die zum teil über HTTPS und zum Teil über HTTP ausgeliefert werden. HTTPSWatch erkennt dies nicht.
+<p>Abgesehen von der Validierung des Hostnamens unternimmt HTTPSWatch keine weitergehende Bewertung der TLS Verbindung. Dafür ist ein Link zum <a href="https://www.ssllabs.com/ssltest/">SSL Labs <quote>SSL Server Test</quote></a> ist für jede Seite vorhanden.
 
-<h2>Site Curation</h2>
-<p>Obviously, it&rsquo;s not practical to list every university or news site in the world. HTTPSWatch&rsquo;s goal is to list several representative sites for each category. Usually these are the most popular sites, so HTTPS support on them affects the most users. The hope is that if the sites listed here have high quality HTTPS implementations, the others will follow. Each category should not exceed 20-30 sites.
+<h2>Seitenauswahl</h2>
+<p>Es ist nicht das Ziel von HTTPSWatch jede Tageszeitung, Universität oder sonstige Webseite zu testen. Es sollen lediglich einige respräsentative Seiten jeder Kategorie analysiert werden. Üblicherweise sind dies die beliebtesten Seiten in jeder Kategorie, die daher die meisten Nutzer/innen betreffen. Die Hoffnung ist, dass wenn diese Seiten HTTPS vernünftig einsetzen, andere folgen werden.
 
-<h2>How to Properly Setup HTTPS</h2>
+<h2>Wie wird HTTPS vernünftig eingesetzt</h2>
 <p>There&rsquo;s a lot of information on the web about this, which may be found by searching. The <a href="https://www.eff.org/https-everywhere/deploying-https">EFF&rsquo;s guide</a> is a good starting place. <a href="https://18f.gsa.gov/">18F</a> has information about their TLS deployment standards including reusable nginx configuration files <a href="https://github.com/18F/tls-standards">on GitHub</a>.
 
 <h2>Code</h2>
