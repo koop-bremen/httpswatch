@@ -173,12 +173,67 @@
             ]
         },
         {
+            "name": "Gewerkschaften",
+            "linkname": "unions",
+            "sites": [
+                {
+                    "name": "Deutscher Gewerkschaftsbund",
+                    "domain": "www.dgb.de"
+                },
+                {
+                    "name": "IGMetall",
+                    "domain": "www.igmetall.de"
+                },
+                {
+                    "name": "Vereinte Dienstleistungsgewerkschaft",
+                    "domain": "www.verdi.de"
+                },
+                {
+                    "name": "IG Bergbau, Chemie, Energie",
+                    "domain": "www.igbce.de"
+                },
+                {
+                    "name": "IG Bauen-Agrar-Umwelt",
+                    "domain": "www.igbau.de"
+                },
+                {
+                    "name": "Gewerkschaft Erziehung und Wissenschaft",
+                    "domain": "www.gew.de"
+                },
+                {
+                    "name": "Eisenbahn- und Verkehrsgewerkschaft",
+                    "domain": "www.evg-online.org"
+                },
+                {
+                    "name": "Gewerkschaft Nahrung-Genuss-Gaststätten",
+                    "domain": "www.ngg.net"
+                },
+                {
+                    "name": "Gewerkschaft der Polizei",
+                    "domain": "www.gdp.de"
+                }
+
+            ]
+        },
+        {
             "name": "Parteien",
             "linkname": "pol_parties",
             "sites": [
                 {
                     "name": "SPD",
                     "domain": "www.spd.de"
+                },
+                {
+                    "name": "CDU",
+                    "domain": "www.cdu.de"
+                },
+                {
+                    "name": "Bündnis 90/Die Grünen",
+                    "domain": "www.gruene.de"
+                },
+                {
+                    "name": "Die Linke",
+                    "domain": "www.die-linke.de"
                 }
             ]
         },
@@ -210,7 +265,7 @@
                 },
                 {
                     "name": "GLS",
-                    "domain": "www.gls.de/privatkunden"
+                    "domain": "www.gls.de"
                 },
                 {
                     "name": "Postbank",
