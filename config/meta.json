@@ -11,11 +11,11 @@
         },
         {
             "name": "Vereinigte Staaten",
-            "external": "http://httpswatch.com/"
+            "external": "https://httpswatch.com/us"
         },
         {
             "name": "Australien",
-            "external": "http://httpswatchau.net/"
+            "external": "https://httpswatchau.net/"
         },
         {
             "name": "Neuseeland",
@@ -23,7 +23,7 @@
         },
         {
             "name": "Software",
-            "shortname": "software"
+            "external": "https://httpswatch.com/programming"
         }
     ]
 }
