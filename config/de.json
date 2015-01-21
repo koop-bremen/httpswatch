@@ -52,19 +52,23 @@
             "sites": [
                 {
                     "name": "ARD",
-                    "domain": "www.ard.de"
+                    "domain": "www.ard.de",
+                    "twitter": "@ARDde"
                 },
                 {
                     "name": "ZDF",
-                    "domain": "www.zdf.de"
+                    "domain": "www.zdf.de",
+                    "twitter": "@ZDF"
                 },
                 {
                     "name": "WDR",
-                    "domain": "www1.wdr.de"
+                    "domain": "www1.wdr.de",
+                    "twitter": "@WDR"
                 },
                 {
                     "name": "Arte",
-                    "domain": "www.arte.tv"
+                    "domain": "www.arte.tv",
+                    "twitter": "@ARTEde"
                 },
                 {
                     "name": "MDR",
@@ -72,7 +76,8 @@
                 },
                 {
                     "name": "Deutsche Welle",
-                    "domain": "www.dw.de"
+                    "domain": "www.dw.de",
+                    "twitter": "@DeutscheWelle"
                 }
             ]
         },
@@ -117,7 +122,8 @@
             "sites": [
                 {
                     "name": "Bahn",
-                    "domain": "www.bahn.de"
+                    "domain": "www.bahn.de",
+                    "twitter": "@DB_Bahn"
                 }
 
             ]
@@ -295,6 +301,14 @@
             "name": "Banken",
             "linkname": "banks",
             "sites": [
+                {
+                    "name": "Deutsche Bank",
+                    "domain": "www.deutsche-bank.de"
+                },
+                {
+                    "name": "Commerzbank",
+                    "domain": "www.commerzbank.de"
+                },
                 {
                     "name": "Sparkasse",
                     "domain": "www.sparkasse.de"
