@@ -47,11 +47,6 @@
                     "twitter": "Pinterest"
                 },
                 {
-                    "name": "Tumblr",
-                    "domain": "www.tumblr.com",
-                    "twitter": "tumblr"
-                },
-                {
                     "name": "Instagram",
                     "domain": "instagram.com",
                     "twitter": "instagram"
@@ -143,15 +138,18 @@
             "sites": [
                 {
                     "name": "Box",
-                    "domain": "www.box.com"
+                    "domain": "www.box.com",
+                    "twitter": "boxhq"
                 },
                 {
                     "name": "Dropbox",
-                    "domain": "www.dropbox.com"
+                    "domain": "www.dropbox.com",
+                    "twitter": "dropbox"
                 },
                 {
                     "name": "Google Drive",
-                    "domain": "drive.google.com"
+                    "domain": "drive.google.com",
+                    "twitter": "googledrive"
                 },
                 {
                     "name": "iCloud",
@@ -159,11 +157,13 @@
                 },
                 {
                     "name": "OneDrive",
-                    "domain": "onedrive.live.com"
+                    "domain": "onedrive.live.com",
+                    "twitter": "onedrive"
                 },
                 {
                     "name": "Tarsnap",
-                    "domain": "www.tarsnap.com"
+                    "domain": "www.tarsnap.com",
+                    "twitter": "tarsnap"
                 }
             ]
         },
@@ -173,23 +173,28 @@
             "sites": [
                 {
                     "name": "Blogger",
-                    "domain": "www.blogger.com"
+                    "domain": "www.blogger.com",
+                    "twitter": "Blogger"
                 },
                 {
                     "name": "Medium",
-                    "domain": "medium.com"
+                    "domain": "medium.com",
+                    "twitter": "Medium"
                 },
                 {
                     "name": "Squarespace",
-                    "domain": "squarespace.com"
+                    "domain": "squarespace.com",
+                    "twitter": "Squarespace"
                 },
                 {
                     "name": "Tumblr",
-                    "domain": "www.tumblr.com"
+                    "domain": "www.tumblr.com",
+                    "twitter": "tumblr"
                 },
                 {
                     "name": "WordPress",
-                    "domain": "wordpress.com"
+                    "domain": "wordpress.com",
+                    "twitter": "WordPress"
                 }
             ]
         },
