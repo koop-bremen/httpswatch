@@ -2,24 +2,28 @@
     "default_page": "global",
     "listings": [
         {
-            "name": "Global",
+            "name": "Allgemein",
             "shortname": "global"
         },
         {
-            "name": "United States",
-            "shortname": "us"
+            "name": "Deutschland",
+            "shortname": "de"
         },
         {
-            "name": "Australia",
+            "name": "Vereinigte Staaten",
+            "external": "http://httpswatch.com/"
+        },
+        {
+            "name": "Australien",
             "external": "http://httpswatchau.net/"
         },
         {
-            "name": "New Zealand",
+            "name": "Neu Seeland",
             "external": "https://httpswatch.nz/"
         },
         {
-            "name": "Programming",
-            "shortname": "programming"
+            "name": "Software",
+            "shortname": "software"
         }
     ]
 }

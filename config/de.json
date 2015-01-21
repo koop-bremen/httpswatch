@@ -1,0 +1,256 @@
+{
+    "categories": [
+        {
+            "name": "Tageszeitungen",
+            "linkname": "newspapers",
+            "sites": [
+                {
+                    "name": "Süddeutsche Zeitung",
+                    "domain": "www.sueddeutsche.de"
+                },
+                {
+                    "name": "tageszeitung",
+                    "domain": "taz.de"
+                },
+                {
+                    "name": "Frankfurter Rundschaue",
+                    "domain": "www.fr-online.de"
+                },
+                {
+                    "name": "Frankfurter Allgemeine",
+                    "domain": "www.faz.net"
+                },
+                {
+                    "name": "Bild",
+                    "domain": "www.bild.de"
+                },
+                {
+                    "name": "RP Online",
+                    "domain": "www.rp-online.de"
+                },
+                {
+                    "name": "Berliner Morgenpost",
+                    "domain": "www.morgenpost.de"
+                },
+                {
+                    "name": "Hamburger Abendblatt",
+                    "domain": "www.abendblatt.de"
+                }
+            ]
+        },
+        {
+            "name": "Fernsehsender",
+            "linkname": "tv",
+            "sites": [
+                {
+                    "name": "ARD",
+                    "domain": "www.ard.de"
+                },
+                {
+                    "name": "ZDF",
+                    "domain": "www.zdf.de"
+                },
+                {
+                    "name": "WDR",
+                    "domain": "www1.wdr.de"
+                },
+                {
+                    "name": "Arte",
+                    "domain": "www.arte.tv"
+                },
+                {
+                    "name": "MDR",
+                    "domain": "www.mdr.de"
+                },
+                {
+                    "name": "Deutsche Welle",
+                    "domain": "www.dw.de"
+                }
+            ]
+        },
+        {
+            "name": "News",
+            "linkname": "news",
+            "sites": [
+                {
+                    "name": "Spiegel",
+                    "domain": "www.spiegel.de"
+                },
+                {
+                    "name": "Zeit",
+                    "domain": "www.zeit.de"
+                },
+                {
+                    "name": "Focus",
+                    "domain": "www.focus.de"
+                },
+                {
+                    "name": "Netzpolitik",
+                    "domain": "netzpolitik.org"
+                },
+                {
+                    "name": "Heise",
+                    "domain": "www.heise.de"
+                },
+                {
+                    "name": "Stiftung Warentest",
+                    "domain": "www.test.de"
+                },
+                {
+                    "name": "N24",
+                    "domain": "www.n24.de"
+                }
+
+            ]
+        },
+        {
+            "name": "Reisen",
+            "linkname": "travel",
+            "sites": [
+                {
+                    "name": "Bahn",
+                    "domain": "www.bahn.de"
+                }
+
+            ]
+        },
+        {
+            "name": "Nachschlagewerke",
+            "linkname": "dictionaries",
+            "sites": [
+                {
+                    "name": "Wikipedia",
+                    "domain": "de.wikipedia.org"
+                },
+                {
+                    "name": "LEO",
+                    "domain": "www.leo.org"
+                },
+                {
+                    "name": "Duden",
+                    "domain": "www.duden.de"
+                }
+            ]
+        },
+        {
+            "name": "Universitäten",
+            "linkname": "universities",
+            "sites": [
+                {
+                    "name": "Uni Bremen",
+                    "domain": "www.uni-bremen.de"
+                },
+                {
+                    "name": "RWTH Aachen",
+                    "domain": "www.rwth-aachen.de"
+                },
+                {
+                    "name": "Uni München",
+                    "domain": "www.uni-muenchen.de"
+                },
+                {
+                    "name": "TU Berlin",
+                    "domain": "www.tu-berlin.de"
+                }
+            ]
+        },
+        {
+            "name": "Behörden",
+            "linkname": "gov",
+            "sites": [
+                {
+                    "name": "BMBF",
+                    "domain": "www.bmbf.de"
+                },
+                {
+                    "name": "BMWI",
+                    "domain": "www.bmwi.de"
+                },
+                {
+                    "name": "Bundestag",
+                    "domain": "www.bundestag.de"
+                }
+            ]
+        },
+        {
+            "name": "Parteien",
+            "linkname": "pol_parties",
+            "sites": [
+                {
+                    "name": "SPD",
+                    "domain": "www.spd.de"
+                }
+            ]
+        },
+        {
+            "name": "Städte",
+            "linkname": "towns",
+            "sites": [
+                {
+                    "name": "Berlin",
+                    "domain": "www.berlin.de"
+                },
+                {
+                    "name": "Bremen",
+                    "domain": "www.bremen.de"
+                }
+            ]
+        },
+        {
+            "name": "Banken",
+            "linkname": "banks",
+            "sites": [
+                {
+                    "name": "Sparkasse",
+                    "domain": "www.sparkasse.de"
+                },
+                {
+                    "name": "Volskbank",
+                    "domain": "www.vr.de"
+                },
+                {
+                    "name": "GLS",
+                    "domain": "www.gls.de/privatkunden"
+                },
+                {
+                    "name": "Postbank",
+                    "domain": "www.postbank.de"
+                },
+                {
+                    "name": "comdirect",
+                    "domain": "www.comdirect.de"
+                }
+            ]
+        },
+        {
+            "name": "Sonstiges",
+            "linkname": "misc",
+            "sites": [
+                {
+                    "name": "Titanic Magazin",
+                    "domain": "www.titanic-magazin.de"
+                },
+                {
+                    "name": "Wetter",
+                    "domain": "www.wetteronline.de"
+                },
+                {
+                    "name": "Wetter",
+                    "domain": "www.wetter.com"
+                },
+                {
+                    "name": "GoFeminin",
+                    "domain": "www.gofeminin.de"
+                },
+                {
+                    "name": "Berlinale",
+                    "domain": "www.berlinale.de"
+                },
+                {
+                    "name": "Transfermarkt",
+                    "domain": "www.transfermarkt.de"
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,27 @@
 {
     "categories": [
+    {
+            "name": "HTTPSWatch",
+            "linkname": "httpswatch",
+            "sites": [
+                {
+                    "name": "HTTPSWatch.info",
+                    "domain": "httpswatch.info"
+                },
+                {
+                    "name": "HTTPSWatch.com",
+                    "domain": "www.httpswatch.com"
+                },
+                {
+                    "name": "HTTPSWatch Australien",
+                    "domain": "www.httpswatchau.net"
+                },
+                {
+                    "name": "HTTPSWatch Neuseeland",
+                    "domain": "www.httpswatch.nz"
+                }
+            ]
+        },
         {
             "name": "Social Media",
             "linkname": "socialmedia",
