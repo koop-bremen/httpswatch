@@ -6,35 +6,43 @@
             "sites": [
                 {
                     "name": "Süddeutsche Zeitung",
-                    "domain": "www.sueddeutsche.de"
+                    "domain": "www.sueddeutsche.de",
+                    "twitter": "@SZ"
                 },
                 {
                     "name": "tageszeitung",
-                    "domain": "taz.de"
+                    "domain": "taz.de",
+                    "twitter": "@tazgezwitscher"
                 },
                 {
-                    "name": "Frankfurter Rundschaue",
-                    "domain": "www.fr-online.de"
+                    "name": "Frankfurter Rundschau",
+                    "domain": "www.fr-online.de",
+                    "twitter": "@FRonline"
                 },
                 {
                     "name": "Frankfurter Allgemeine",
-                    "domain": "www.faz.net"
+                    "domain": "www.faz.net",
+                    "twitter": "@faznet"
                 },
                 {
                     "name": "Bild",
-                    "domain": "www.bild.de"
+                    "domain": "www.bild.de",
+                    "twitter": "@BILD"
                 },
                 {
                     "name": "RP Online",
-                    "domain": "www.rp-online.de"
+                    "domain": "www.rp-online.de",
+                    "twitter": "@rponline"
                 },
                 {
                     "name": "Berliner Morgenpost",
-                    "domain": "www.morgenpost.de"
+                    "domain": "www.morgenpost.de",
+                    "twitter": "@morgenpost"
                 },
                 {
                     "name": "Hamburger Abendblatt",
-                    "domain": "www.abendblatt.de"
+                    "domain": "www.abendblatt.de",
+                    "twitter": ""
                 }
             ]
         },
