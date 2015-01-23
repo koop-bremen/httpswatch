@@ -23,6 +23,40 @@
             ]
         },
         {
+            "name": "Search",
+            "linkname": "search",
+            "sites": [
+                {
+                    "name": "Baidu",
+                    "domain": "www.baidu.com"
+                },
+                {
+                    "name": "DuckDuckGo",
+                    "domain": "duckduckgo.com",
+                    "twitter": "duckduckgo"
+                },
+                {
+                    "name": "Google",
+                    "domain": "www.google.com",
+                    "twitter": "google"
+                },
+                {
+                    "name": "SoHu",
+                    "domain": "www.sohu.com"
+                },
+                {
+                    "name": "Yandex",
+                    "domain": "www.yandex.ru",
+                    "twitter": "yandexcom"
+                },
+                {
+                    "name": "Yahoo!",
+                    "domain": "www.yahoo.com",
+                    "twitter": "YahooCare"
+                }
+            ]
+        },
+        {
             "name": "Social Media",
             "linkname": "socialmedia",
             "sites": [
@@ -42,7 +76,7 @@
                     "twitter": "twitter"
                 },
                 {
-                    "name": "Pintrest",
+                    "name": "Pinterest",
                     "domain": "www.pinterest.com",
                     "twitter": "Pinterest"
                 },
@@ -105,6 +139,10 @@
                     "name": "eBay",
                     "domain": "www.ebay.com",
                     "twitter": "eBay"
+                },
+                {
+                    "name": "craigslist",
+                    "domain": "www.craigslist.org"
                 },
                 {
                     "name": "Target",

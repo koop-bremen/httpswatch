@@ -19,7 +19,7 @@ from urllib.parse import urlsplit
 import jinja2
 
 PARALLELISM = 16
-USER_AGENT = "Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0"
+USER_AGENT = "Mozilla/5.0 Firefox/35.0 compatible HTTPSWatch Bot https://httpswatch.com"
 
 log = logging.getLogger("check_https")
 
@@ -60,9 +60,7 @@ def fetch_through_redirects(http, stop=None):
             resp.read()
             resp.close()
             if url.netloc and url.netloc != http.host:
-                # Probably should actually handle this...
-                print(http.host)
-                raise ValueError("Site redirects to a different domain.")
+                raise ValueError("{} redirects to a different domain.".format(url.netloc))
             path = url.path
             if not path.startswith("/"):
                 path = "/" + path
