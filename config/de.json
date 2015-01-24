@@ -358,6 +358,11 @@
                 {
                     "name": "Transfermarkt",
                     "domain": "www.transfermarkt.de"
+                },
+                {
+                    "name": "gutefrage.net",
+                    "domain": "www.gutefrage.net",
+                    "twitter": "@gutefrage_net"
                 }
             ]
         }
