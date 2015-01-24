@@ -10,15 +10,15 @@
                 },
                 {
                     "name": "HTTPSWatch.com",
-                    "domain": "www.httpswatch.com"
+                    "domain": "httpswatch.com"
                 },
                 {
                     "name": "HTTPSWatch Australien",
-                    "domain": "www.httpswatchau.net"
+                    "domain": "httpswatchau.net"
                 },
                 {
                     "name": "HTTPSWatch Neuseeland",
-                    "domain": "www.httpswatch.nz"
+                    "domain": "httpswatch.nz"
                 }
             ]
         },
