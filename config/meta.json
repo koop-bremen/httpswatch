@@ -24,6 +24,10 @@
         {
             "name": "Software",
             "external": "https://httpswatch.com/programming"
+        },
+        {
+          "name": "Schweden",
+          "shortname": "se"
         }
     ]
 }
