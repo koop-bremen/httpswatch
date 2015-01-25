@@ -22,12 +22,12 @@
             "external": "https://httpswatch.nz/"
         },
         {
-            "name": "Software",
-            "external": "https://httpswatch.com/programming"
+            "name": "Schweden",
+            "external": "https://httpswatch.com/se"
         },
         {
-            "name": "Sweden",
-            "shortname": "se"
+            "name": "Software",
+            "external": "https://httpswatch.com/programming"
         }
     ]
 }
