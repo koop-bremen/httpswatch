@@ -1,29 +1,7 @@
 {
     "categories": [
-    {
-            "name": "HTTPSWatch",
-            "linkname": "httpswatch",
-            "sites": [
-                {
-                    "name": "HTTPSWatch.info",
-                    "domain": "httpswatch.info"
-                },
-                {
-                    "name": "HTTPSWatch.com",
-                    "domain": "httpswatch.com"
-                },
-                {
-                    "name": "HTTPSWatch Australien",
-                    "domain": "httpswatchau.net"
-                },
-                {
-                    "name": "HTTPSWatch Neuseeland",
-                    "domain": "httpswatch.nz"
-                }
-            ]
-        },
         {
-            "name": "Search",
+            "name": "Suchmaschinen",
             "linkname": "search",
             "sites": [
                 {
@@ -39,6 +17,11 @@
                     "name": "Google",
                     "domain": "www.google.de",
                     "twitter": "google"
+                },
+                {
+                    "name": "Bing",
+                    "domain": "www.bing.com",
+                    "twitter": "bing"
                 },
                 {
                     "name": "SoHu",
@@ -118,7 +101,7 @@
             ]
         },
         {
-            "name": "Commerce",
+            "name": "Onlineshops",
             "linkname": "commerce",
             "sites": [
                 {
@@ -127,51 +110,18 @@
                 },
                 {
                     "name": "Amazon",
-                    "domain": "www.amazon.com",
+                    "domain": "www.amazon.de",
                     "twitter": "amazon"
                 },
                 {
-                    "name": "Best Buy",
-                    "domain": "www.bestbuy.com",
-                    "twitter": "BestBuy"
-                },
-                {
                     "name": "eBay",
-                    "domain": "www.ebay.com",
+                    "domain": "www.ebay.de",
                     "twitter": "eBay"
-                },
-                {
-                    "name": "craigslist",
-                    "domain": "www.craigslist.org"
-                },
-                {
-                    "name": "Target",
-                    "domain": "www.target.com",
-                    "twitter": "Target"
-                },
-                {
-                    "name": "Walmart",
-                    "domain": "www.walmart.com",
-                    "twitter": "Walmart"
-                },
-                {
-                    "name": "CVS",
-                    "domain": "www.cvs.com",
-                    "twitter": "cvshealth"
-                },
-                {
-                    "name": "Home Depot",
-                    "domain": "www.homedepot.com",
-                    "twitter": "HomeDepot"
-                },
-                {
-                    "name": "Barnes & Noble",
-                    "domain": "www.barnesandnoble.com"
                 }
             ]
         },
         {
-            "name": "Cloud Storage",
+            "name": "Cloud Dienste",
             "linkname": "storage",
             "sites": [
                 {
@@ -206,7 +156,7 @@
             ]
         },
         {
-            "name": "Publishing Platforms",
+            "name": "Publishing Plattformen",
             "linkname": "publishing-platforms",
             "sites": [
                 {
@@ -237,12 +187,24 @@
             ]
         },
         {
-            "name": "Security",
+            "name": "Sicherheit",
             "linkname": "security",
             "sites": [
                 {
-                    "name": "Openwhispersystems",
-                    "domain": "whispersystems.org"
+                    "name": "HTTPSWatch.info",
+                    "domain": "httpswatch.info"
+                },
+                {
+                    "name": "HTTPSWatch.com",
+                    "domain": "httpswatch.com"
+                },
+                {
+                    "name": "HTTPSWatch Australien",
+                    "domain": "httpswatchau.net"
+                },
+                {
+                    "name": "HTTPSWatch Neuseeland",
+                    "domain": "httpswatch.nz"
                 }
             ]
         }
