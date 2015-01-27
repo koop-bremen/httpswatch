@@ -319,7 +319,8 @@
                 },
                 {
                     "name": "GLS",
-                    "domain": "www.gls.de"
+                    "domain": "www.gls.de",
+                    "path": "/privatkunden"
                 },
                 {
                     "name": "Postbank",
