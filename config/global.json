@@ -9,6 +9,11 @@
                     "domain": "www.baidu.com"
                 },
                 {
+                    "name": "Bing",
+                    "domain": "www.bing.com",
+                    "twitter": "Bing"
+                },
+                {
                     "name": "DuckDuckGo",
                     "domain": "duckduckgo.com",
                     "twitter": "duckduckgo"
@@ -97,6 +102,11 @@
                     "name": "OkCupid",
                     "domain": "www.okcupid.com",
                     "twitter": "okcupid"
+                },
+                {
+                    "name": "Disqus",
+                    "domain": "disqus.com",
+                    "twitter": "disqus"
                 }
             ]
         },
