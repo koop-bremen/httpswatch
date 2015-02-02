@@ -5,39 +5,49 @@
             "linkname": "newspapers",
             "sites": [
                 {
-                    "name": "Süddeutsche Zeitung",
-                    "domain": "www.sueddeutsche.de",
-                    "twitter": "@SZ"
-                },
-                {
-                    "name": "tageszeitung",
-                    "domain": "taz.de",
-                    "twitter": "@tazgezwitscher"
-                },
-                {
-                    "name": "Frankfurter Rundschau",
-                    "domain": "www.fr-online.de",
-                    "twitter": "@FRonline"
-                },
-                {
-                    "name": "Frankfurter Allgemeine",
-                    "domain": "www.faz.net",
-                    "twitter": "@faznet"
-                },
-                {
                     "name": "Bild",
                     "domain": "www.bild.de",
-                    "twitter": "@BILD"
+                    "twitter": "BILD"
+                },
+                {
+                    "name": "Süddeutsche Zeitung",
+                    "domain": "www.sueddeutsche.de",
+                    "twitter": "SZ"
+                },
+                {
+                    "name": "Westdeutsche Allgemeine Zeitung",
+                    "domain": "www.derwesten.de",
+                    "twitter": "DerWesten"
                 },
                 {
                     "name": "RP Online",
                     "domain": "www.rp-online.de",
-                    "twitter": "@rponline"
+                    "twitter": "rponline"
+                },
+                {
+                    "name": "Frankfurter Allgemeine Zeitung",
+                    "domain": "www.faz.net",
+                    "twitter": "faznet"
+                },
+                {
+                    "name": "Südwest Presse",
+                    "domain": "www.swp.de",
+                    "twitter": "SWPde"
+                },
+                {
+                    "name": "tageszeitung",
+                    "domain": "taz.de",
+                    "twitter": "tazgezwitscher"
+                },
+                {
+                    "name": "Frankfurter Rundschau",
+                    "domain": "www.fr-online.de",
+                    "twitter": "FRonline"
                 },
                 {
                     "name": "Berliner Morgenpost",
                     "domain": "www.morgenpost.de",
-                    "twitter": "@morgenpost"
+                    "twitter": "morgenpost"
                 },
                 {
                     "name": "Hamburger Abendblatt",
@@ -53,22 +63,22 @@
                 {
                     "name": "ARD",
                     "domain": "www.ard.de",
-                    "twitter": "@ARDde"
+                    "twitter": "ARDde"
                 },
                 {
                     "name": "ZDF",
                     "domain": "www.zdf.de",
-                    "twitter": "@ZDF"
+                    "twitter": "ZDF"
                 },
                 {
                     "name": "WDR",
                     "domain": "www1.wdr.de",
-                    "twitter": "@WDR"
+                    "twitter": "WDR"
                 },
                 {
                     "name": "Arte",
                     "domain": "www.arte.tv",
-                    "twitter": "@ARTEde"
+                    "twitter": "ARTEde"
                 },
                 {
                     "name": "MDR",
@@ -77,7 +87,7 @@
                 {
                     "name": "Deutsche Welle",
                     "domain": "www.dw.de",
-                    "twitter": "@DeutscheWelle"
+                    "twitter": "DeutscheWelle"
                 }
             ]
         },
@@ -123,7 +133,7 @@
                 {
                     "name": "Bahn",
                     "domain": "www.bahn.de",
-                    "twitter": "@DB_Bahn"
+                    "twitter": "DB_Bahn"
                 }
 
             ]
@@ -363,7 +373,7 @@
                 {
                     "name": "gutefrage.net",
                     "domain": "www.gutefrage.net",
-                    "twitter": "@gutefrage_net"
+                    "twitter": "gutefrage_net"
                 }
             ]
         }
